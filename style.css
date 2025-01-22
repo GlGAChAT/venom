@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header {
+   background-color: #20B2AA;
+   padding:12px;
+   border-radius:20px ;
+}
+header a {
+  background-color: white;
+  border-radius: 20px;
+  padding: 12px;
+  text-decoration: none;
+  margin-left: 12px;
+}
+h1 {
+  text-align: center;
+  color: #FFA500;
+}
+footer p {
+  border: 5px solid #C0C0C0;
+}
+nav {
+  border: 3px solid #C0C0C0;
+  text-align: center;
+}
+nav a {
+  text-decoration: none;
+  color: #C0C0C0;
+  margin-left: 70px;
+}
+.algoritmika{
+    border: 3px solid darkblue;
+    border-radius: 10px;
+    padding-left:10px ;
+}
+#discount {
+  color: blue;
+}
+#bububu {
+  text-decoration:none;
+  border:3px solid blue;
+  padding: 6px;
+}
+#delivery {
+  color: blue;
+}
